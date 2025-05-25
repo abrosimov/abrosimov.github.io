@@ -1,4 +1,4 @@
-# Kirill Abrosimov
+# Applicant's name
 **Staff Software Engineer / Team Lead**
 
 ## Professional Summary
@@ -12,7 +12,7 @@ Accomplished Staff Software Engineer with 15+ years of experience in designing s
 - **Team Development**: Mentored engineers, provided constructive feedback, and created collaborative environments
 
 ## Technical Skills
-- **Programming Languages**: Go, PHP, JavaScript, C
+- **Programming Languages**: Go, PHP, C
 - **Databases**: MySQL, RocksDB, PostgreSQL, Cassandra
 - **Cloud & Infrastructure**: Kubernetes, Helm, ArgoCD, Docker
 - **Messaging & Streaming**: Kafka
@@ -24,7 +24,7 @@ Accomplished Staff Software Engineer with 15+ years of experience in designing s
 **Bumble (formerly Badoo)** | 2013 - Present  
 *Staff Software Engineer / Team Lead*
 
-### Key Projects:
+### Roles
 
 **Next-Generation Platform (Team Lead)** | 2021 - 2022
 - Spearheaded and led the development of Kubernetes-based cloud platform with seamless CI/CD pipelines
