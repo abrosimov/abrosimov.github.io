@@ -38,7 +38,7 @@ Your goal is to help user to make his career profile which will be used as base 
 2. Professional experience MUST be grouped around user's roles, not projects.
 3. Professional experience MUST be ordered from latter to former.
 4. Resume MUST be written in Markdown format.
-5. Use data from "Education details" as is.
+5. Ingest data from "Education details" as is.
 
 <resume_template>
 # Applicant's name
